@@ -6,4 +6,6 @@
 3. creat and use key pair 
 4.use putty 
 5. ALLOW HTTP(80), HTTPS(443) and SSH(2)
-6. lounch instance 
+6. lounch instance
+## launched EC2 INSTANCE
+## 2 using(putty / SSH)
